@@ -1,4 +1,4 @@
-# snail_farm
+# Snail Farm
 Python script for farming in discord snail racing
 
 # How do?
